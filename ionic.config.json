@@ -1,0 +1,7 @@
+{
+  "name": "vrgames",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
